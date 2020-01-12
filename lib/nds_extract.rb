@@ -32,7 +32,7 @@ def directors_totals(nds)
   while dir_index < nds.length do
 
     result[dir_index] = gross_for_director(nds[dir_index])
-    File.dirname(__FILE__)
+    dir_index += 1
 
   end
 end
