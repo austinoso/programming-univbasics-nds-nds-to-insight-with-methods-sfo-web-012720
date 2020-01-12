@@ -27,7 +27,7 @@ def directors_totals(nds)
   result = {}
   dir_index = 0
 
-  puts gross_for_director(nds[dir_index])
+  puts gross_for_director(nds[1])
 
   while dir_index < nds.length do
 
