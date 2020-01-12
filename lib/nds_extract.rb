@@ -35,4 +35,6 @@ def directors_totals(nds)
     dir_index += 1
 
   end
+
+  result
 end
